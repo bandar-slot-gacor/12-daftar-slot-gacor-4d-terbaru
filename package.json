@@ -1,0 +1,21 @@
+{
+  "name": "12-daftar-slot-gacor-4d-terbaru",
+  "main": "./lib/12-daftar-slot-gacor-4d-terbaru",
+  "version": "0.0.0",
+  "description": "Ciri-ciri paling penting dari Situs Judi Slot 4D Online Gacor yang Gampang Maxwin yaitu Memperlihatkan Link Bandar Slot Winrate Rtp Tertinggi",
+  "keywords": [
+    "slot gacor",
+    "slot gacor 4d",
+    "slot online gacor"
+  ],
+  "activationCommands": {
+    "atom-workspace": "12-daftar-slot-gacor-4d-terbaru:toggle"
+  },
+  "repository": "https://github.com/bandar-slot-gacor/12-daftar-slot-gacor-4d-terbaru",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  },
+  "dependencies": {
+  }
+}

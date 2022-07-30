@@ -1,0 +1,26 @@
+{
+  "context-menu": {
+    "atom-text-editor": [
+      {
+        "label": "Toggle 12-daftar-slot-gacor-4d-terbaru",
+        "command": "12-daftar-slot-gacor-4d-terbaru:toggle"
+      }
+    ]
+  },
+  "menu": [
+    {
+      "label": "Packages",
+      "submenu": [
+        {
+          "label": "12-daftar-slot-gacor-4d-terbaru",
+          "submenu": [
+            {
+              "label": "Toggle",
+              "command": "12-daftar-slot-gacor-4d-terbaru:toggle"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
